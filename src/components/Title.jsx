@@ -3,8 +3,8 @@ import React from 'react'
 export const Title = () => {
   return (
     <div>
-      <header>
-        react_todolist
+      <header >
+        <h1>react_todolist</h1>
       </header>
     </div>
   )
